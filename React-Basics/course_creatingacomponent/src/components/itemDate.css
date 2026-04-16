@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.itemDateKiDate{
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   margin-top: 0.75rem;
+   color:brown;
+   font-size:xx-large;
+}

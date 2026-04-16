@@ -1,0 +1,50 @@
+.card{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+    width:100%;
+    border: 1px solid grey;
+    border-radius:22px;
+    padding-top:0px;
+    padding-bottom:10px;
+}
+
+.card img{
+    object-fit:cover;
+    border-top-right-radius:22px;
+    border-top-left-radius:22px;
+    width:100%;
+}
+
+.description{
+    margin-left:1rem;
+    margin-right:1rem;
+    margin-bottom:1rem;
+}
+
+.title{
+     margin-left:1rem;
+    margin-right:1rem;
+    margin-bottom:0.5rem;
+    font-weight: bolder;
+    color:brown;
+    font-size: larger;
+    flex-grow: 1;
+}
+
+.buttonWalaDiv{
+    margin-left:1rem;
+    margin-right:1rem;
+    margin-bottom:0.5rem;
+    margin-top:0.5rem;
+    background-color:white;
+    width:fit-content;
+    border:1px solid white; 
+    border-radius:50%;
+    width:45px;
+    height:45px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}

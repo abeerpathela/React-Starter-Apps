@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.para{
+    font-size:xx-large;
+    font-weight: bolder;
+    color:aquamarine;
+    text-align:center;
+}

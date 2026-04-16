@@ -1,0 +1,31 @@
+.new-product{
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem;
+    border-radius:12px;
+    border:1px solid aqua;
+    margin:auto; 
+    max-width:540px;
+}
+
+.new-product_title{
+    color:brown;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.new-product_button{
+    margin:2rem 2rem 2rem 0rem;
+}
+
+.new-product_date{
+    background-color:black;
+    color:white;
+    padding:1rem;
+    font-weight:bolder;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}

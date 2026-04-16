@@ -1,0 +1,27 @@
+.main-heading{
+    border:5px dashed blue;
+    text-align:center;
+    width: fit-content;
+    margin:0.75rem;
+    padding:0.10rem 0.50rem;
+
+}
+
+.main-heading-div{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+}
+
+.All-Tours{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+    justify-content: center;
+    padding:20px;
+    align-items:stretch;
+}
+
+
+

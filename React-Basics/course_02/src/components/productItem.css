@@ -1,0 +1,19 @@
+.product-item{
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.50rem;
+    border-radius:12px;
+    border:1px solid aqua;
+    margin: 1rem auto; 
+}
+
+.product-item_description{
+    color:brown;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.product-item_button{
+    margin:2rem 2rem 2rem 0rem;
+}
